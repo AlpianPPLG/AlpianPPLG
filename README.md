@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpian</h1>
 <h3 align="center">there are many interesting things on the internet that can be learned on the internet!!</h3>
 
-- 🌱 I’m currently learning *PHP,JAVASCRIPT,JAVA,PYTHON,REACT.*
+- 🌱 I’m currently learning *PHP, JAVASCRIPT, JAVA, PYTHON, REACT.*
 
 - 📫 How to reach me *Nova07pplg@gmail.com*
 
