@@ -7,11 +7,11 @@
 
 <div align="center">
 
--👀 I'm Interested *About Web Technology*
-
--🌱 I’m currently learning *PHP, JAVASCRIPT, JAVA, PYTHON, REACT, ETC.*
+• 👀 I'm Interested *About Web Technology*
+ 
+• 🌱 I’m currently learning *PHP, JAVASCRIPT, JAVA, PYTHON, REACT, ETC.*
   
- -📫 How to reach me *Nova07pplg@gmail.com*
+ • 📫 How to reach me *Nova07pplg@gmail.com*
  </div>
 <br>
 <h3 align="center">Connect with me:</h3>
