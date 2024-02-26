@@ -7,9 +7,9 @@
 
 <div align="center">
 
-• 👀 I'm Interested *About Web Technology*
+• 👀 I'm Interested _**About Web Technology**_
  
-• 🌱 I’m currently learning *PHP, JAVASCRIPT, JAVA, PYTHON, REACT, ETC.*
+• 🌱 I’m currently learning  _**PHP, JAVASCRIPT, JAVA, PYTHON, REACT, ETC.**_ 
   
  • 📫 How to reach me *Nova07pplg@gmail.com*
  </div>
