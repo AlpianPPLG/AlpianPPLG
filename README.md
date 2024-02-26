@@ -24,7 +24,7 @@
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,github,java,python" />
+<p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,github,java,python" />
     <img src="https://skillicons.dev/icons?i=javascript,php,react,mysql,nodejs,express" /><br> </p>
 
 <hr/>
