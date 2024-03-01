@@ -42,7 +42,7 @@
 
 <img width="47%" align="left" src="https://streak-stats.demolab.com/?user=AlpianPPLG&theme=dark" />
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpianPPLG&theme=dark" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpianPPLG&theme=dark&layout=compact" />
 
 <br/>
 
