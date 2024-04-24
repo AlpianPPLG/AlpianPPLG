@@ -41,12 +41,12 @@
 <h2 align="center"> My Stats </h2>
 <br>
 
-<img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpianPPLG&layout=compact&theme=dark" alt="AlpianPPLG" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpianPPLG&layout=compact&theme=dark" alt="AlpianPPLG" />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlpianPPLG&show_icons=true&locale=en&theme=dark" alt="AlpianPPLG" /> </p>
 
 <br/>
 
-<p><img align="center" height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=AlpianPPLG&theme=dark" alt="AlpianPPLG" /> </p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlpianPPLG&theme=dark" alt="AlpianPPLG" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
