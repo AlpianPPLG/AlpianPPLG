@@ -24,6 +24,7 @@
 <a href="https://github.com/AlpianPPLG" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/_ubermensch7" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://facebook.com/Nova Pratama" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-fcebef?style=for-the-badge&logo=facebook&logoColor=blue" target="_blank"></a>
+<a href="https://gmail.com/Nova07pplg@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-fcebef?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
      
 <br>
