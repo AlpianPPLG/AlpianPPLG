@@ -39,7 +39,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,debian,github,java,kotlin,python" />
-    <img src="https://skillicons.dev/icons?i=javascript,php,react,mysql,nodejs,express,laravel" /><br> </p>
+    <img src="https://skillicons.dev/icons?i=javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap" /><br> </p>
 
 <hr/>
 
