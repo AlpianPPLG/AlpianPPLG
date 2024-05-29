@@ -50,8 +50,6 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlpianPPLG&show_icons=true&locale=en&theme=dark" alt="AlpianPPLG" /> </p>
 
-<br/>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlpianPPLG&theme=dark" alt="AlpianPPLG" /> </p>
 
 ### You are a visitor to:
