@@ -43,6 +43,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap"/>
     <a href="https://www.w3schools.com/cpp/"target="_blank"rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle"            width="50" height="50"/>
   </a> <br> </p>
 
 <hr/>
