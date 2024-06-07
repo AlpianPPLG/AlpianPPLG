@@ -40,7 +40,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,debian,github,java,kotlin,python" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap" /><br> </p>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap"/>
+    <a href="https://www.w3schools.com/cpp/"target="_blank"rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  </a> <br> </p>
 
 <hr/>
 
