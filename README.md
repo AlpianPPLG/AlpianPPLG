@@ -62,6 +62,13 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlpianPPLG&theme=dark" alt="AlpianPPLG" /> </p>
 
+<hr />
+
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<hr />
+
 ### You are a visitor to:
 ![Visitor Count](https://profile-counter.glitch.me/{AlpianPPLG}/count.svg)
 
