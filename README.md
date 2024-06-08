@@ -38,7 +38,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🛠Technologies and Tools🛠:</h3>
 <p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,debian,github,java,kotlin,python,postman,vite" />
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap"/>
     <a href="https://www.w3schools.com/cpp/"target="_blank"rel="noreferrer">
@@ -48,7 +48,7 @@
 
 <hr/>
 
-<h2 align="center"> My Stats </h2>
+<h2 align="center"> Github Stats </h2>
 <br>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpianPPLG&layout=compact&theme=dark" alt="AlpianPPLG" />
