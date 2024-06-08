@@ -30,8 +30,10 @@
 <a href="https://facebook.com/Nova Pratama" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-fcebef?style=for-the-badge&logo=facebook&logoColor=blue" target="_blank"></a>
 <a href="https://gmail.com/Nova07pplg@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-fcebef?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
-     
-<br>
+
+<hr />
+    
+
 <h3 align="center">🌐Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/_ubermensch7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ubermensch7" height="30" width="40" /></a>
@@ -45,8 +47,8 @@
 <p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,debian,github,java,kotlin,python,postman,vite" />
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap"/>
     <a href="https://www.w3schools.com/cpp/"target="_blank"rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle"            width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle"            width="45" height="45"/>
   </a> <br> </p>
 
 <hr/>
