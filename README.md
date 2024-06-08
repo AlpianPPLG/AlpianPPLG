@@ -48,7 +48,7 @@
 
 <hr/>
 
-<h2 align="center"> Github Stats </h2>
+<h2 align="center"> Github Stats🚀 </h2>
 <br>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpianPPLG&layout=compact&theme=dark" alt="AlpianPPLG" />
