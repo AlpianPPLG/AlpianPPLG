@@ -12,6 +12,9 @@
 
 <div align="center">
 
+## About Me <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
+
+
 • 👀 I'm Interested _**About Web Technology**_
  
 • 🌱 I’m currently learning  _**PHP, JAVASCRIPT, JAVA, PYTHON, REACT, ETC.**_ 
