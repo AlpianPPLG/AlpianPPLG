@@ -25,6 +25,12 @@
 • 🌱 I’m currently learning  _**PHP, JAVASCRIPT, JAVA, PYTHON, REACT, ETC.**_ 
   
  • 📫 How to reach me *Nova07pplg@gmail.com*
+
+<br>
+
+<details>
+<p>Hello My Name Is Alpian, I am 17 years old, I Live In Indonesia, Now Iam Studied At SMKN 7 SAMARINDA, And My Major Is Software And Game Development</p>
+ 
  </div>
  
 <br>
