@@ -1,7 +1,5 @@
 <h1 align="center">Hi There! Welcome To My Profile👋</h1>
 
-
-
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://alpianpplg.io)
 
 <hr/>
@@ -32,7 +30,35 @@
 <p>Hello My Name Is Alpian, I Am 17 Years Old, I Live In Indonesia, Now Iam Studied At SMKN 7 SAMARINDA, And My Major Is Software And Game Development</p>
  
  </div>
+
+<br>
+
+ <div align="left">
+     <details>
+         <summary>Skills</summary>
+         <br>
+         • Problem Solving
+         • Critical Thingking
+         • Photography
+         • Coding
+         • Creating Poetry
+     </details>
+ </div>
  
+ <br>
+
+ <div align="left">
+     <details>
+         <summary>Hobbies</summary>
+        <br>
+         • 💻 Coding
+         • 📘 Reading Book
+         • 📸 Photography
+         • 📽️ Watching Movie
+         • ♟️ Chess Player
+     </details>
+ </div>
+
 <br>
 
 <p align="center"> 
@@ -44,7 +70,6 @@
 
 <hr />
     
-
 <h3 align="center">🌐Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/_ubermensch7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ubermensch7" height="30" width="40" /></a>
