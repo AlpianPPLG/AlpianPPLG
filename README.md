@@ -13,20 +13,29 @@
 
 <br/>
 
-<div align="center">
-
 ## About Me <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
 
-
-• 👀 I'm Interested _**About Web Technology**_
- 
-• 🌱 I’m currently learning  _**PHP, JAVASCRIPT, JAVA, PYTHON, REACT, ETC.**_ 
-  
- • 📫 How to reach me *Nova07pplg@gmail.com*
-
-<br>
+---
+```javascript
+const aboutMe = {
+  name: "Alpian",
+  age: 17,
+  location: "Indonesia",
+  education: {
+    school: "SMKN 7 SAMARINDA",
+    major: "Software and Game Development"
+  },
+  contact: {
+    email: "Nova07pplg@gmail.com",
+    github: "https://github.com/AlpianPPLG",
+    instagram: "https://instagram.com/_ubermensch7",
+    facebook: "https://facebook.com/Nova Pratama"
+  },
+};
+```
 
 <details>
+<br>
 <p>Hello My Name Is Alpian, I Am 17 Years Old, I Live In Indonesia, Now Iam Studied At SMKN 7 SAMARINDA, And My Major Is Software And Game Development</p>
  
  </div>
@@ -105,6 +114,16 @@
 
 <hr />
 
+## 🏅 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlpianPPLG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr />
+
+### My Recent Activity:
+[![GitHub Activity](https://img.shields.io/badge/Recent%20Activity-Click%20Here!-brightgreen)](https://github.com/AlpianPPLG?tab=repositories)
+
+<hr />
+
 ### You are a visitor to:
 ![Visitor Count](https://profile-counter.glitch.me/{AlpianPPLG}/count.svg)
 
@@ -117,4 +136,5 @@
 <hr />
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
