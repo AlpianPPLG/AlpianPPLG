@@ -116,7 +116,7 @@ const aboutMe = {
 
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)]([https://medium.com/@username](https://medium.com/@nova07pplg))
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/alpian-alpian-7a16522bb/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/username](https://www.linkedin.com/in/alpian-alpian-7a16522bb/)](https://www.linkedin.com/in/alpian-alpian-7a16522bb/))
 
 <hr />
 
