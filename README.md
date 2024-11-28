@@ -107,6 +107,17 @@ const aboutMe = {
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlpianPPLG&theme=dark" alt="AlpianPPLG" /> </p>
 
+<hr/>
+
+## 💡 My Contributions
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1234567/AlpianPPLG)
+
+[![GitHub Gist](https://img.shields.io/badge/-Gist-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/AlpianPPLG)
+
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)]([https://medium.com/@username](https://medium.com/@nova07pplg))
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/alpian-alpian-7a16522bb/))
+
 <hr />
 
 ### ✍️ Random Quote
