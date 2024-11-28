@@ -110,7 +110,7 @@ const aboutMe = {
 <hr/>
 
 ## 💡 My Contributions
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1234567/AlpianPPLG)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28531169/alpian)
 
 [![GitHub Gist](https://img.shields.io/badge/-Gist-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/AlpianPPLG)
 
