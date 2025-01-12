@@ -69,6 +69,14 @@ const aboutMe = {
  </div>
 
 <br>
+<br>
+<p align="center"> 
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" style="margin-right: 15px;" /> 
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3h1emN3ejlyaXhqbHUzNDJ1MWNnbXRobmgwOGRocjI3eTEzd3M2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="150" height="100" style="margin-right: 15px;" /> 
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZtcWhxZG54OWpmcGR1djdwMHJ1eGxsZ2d4eHUwM3AybW03eWR3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsX2OZJ8G3Tec6Y/giphy.gif" width="150" height="100" />
+</p>
+
+<br>
 
 <p align="center"> 
 <a href="https://github.com/AlpianPPLG" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -133,6 +141,14 @@ const aboutMe = {
 
 ### My Recent Activity:
 [![GitHub Activity](https://img.shields.io/badge/Recent%20Activity-Click%20Here!-brightgreen)](https://github.com/AlpianPPLG?tab=repositories)
+
+<hr />
+
+<p align="left">
+    <a href="">
+      <img src="https://render.gitanimals.org/lines/alpianpplg?pet-id=657051833278790750" width="600" height="120" />
+    </a>
+</p>
 
 <hr />
 
