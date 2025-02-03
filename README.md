@@ -1,5 +1,7 @@
 <h1 align="center">Hi There! Welcome To My Profile👋</h1>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AlpianPPLG&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://alpianpplg.io)
 
 <hr/>
@@ -131,6 +133,14 @@ const aboutMe = {
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<hr />
+
+<h2 align="center">🎧 Spotify Playing</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31xvq4cuzcdypgeq3euh73kdawb4" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
 <hr />
 
