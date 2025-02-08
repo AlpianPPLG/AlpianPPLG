@@ -117,6 +117,10 @@ const aboutMe = {
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlpianPPLG&theme=dark" alt="AlpianPPLG" /> </p>
 
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlpianPPLG&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
+
 <hr/>
 
 ## 💡 My Contributions
