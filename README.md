@@ -127,9 +127,9 @@ const aboutMe = {
 
 [![GitHub Gist](https://img.shields.io/badge/-Gist-181717?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/AlpianPPLG)
 
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nova07pplg)
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpian-alpian-7a16522bb/)
+
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nova07pplg)
 
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28531169/alpian)
 
