@@ -100,7 +100,7 @@ const aboutMe = {
 
 <h3 align="center">🛠Technologies and Tools🛠:</h3>
 <p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,debian,github,java,kotlin,python,postman,vite,arduino,vue,typescript" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap,nextjs,firebase"/>
     <a href="https://www.w3schools.com/cpp/"target="_blank"rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle"            width="45" height="45"/>
