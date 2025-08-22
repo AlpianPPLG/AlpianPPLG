@@ -167,9 +167,6 @@ const aboutMe = {
 
 <hr />
 
-### You are a visitor to:
-![Visitor Count](https://profile-counter.glitch.me/{AlpianPPLG}/count.svg)
-
 <hr />
 
 <p align="center">
