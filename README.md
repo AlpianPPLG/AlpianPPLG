@@ -67,6 +67,9 @@ const aboutMe = {
          • 📸 Photography
          • 📽️ Watching Movie
          • ♟️ Chess Player
+         • 📈 Trading
+         • 🖼️ Editing/Color Grade(Photo)
+         • ⚙️ Explore the operating system
      </details>
  </div>
 
