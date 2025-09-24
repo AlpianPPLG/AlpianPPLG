@@ -71,6 +71,7 @@ const aboutMe = {
          • 📈 Trading
          • 🖼️ Editing/Color Grade(Photo)
          • ⚙️ Explore the operating system
+         • 🌎 Learn Language(English,German,France,Spanish,Italy) 
      </details>
  </div>
 
