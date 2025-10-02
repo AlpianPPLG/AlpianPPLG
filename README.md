@@ -38,7 +38,7 @@ const aboutMe = {
 
 <details>
 <br>
-<p>Hello My Name Is Alpian, I Am 17 Years Old, I Live In Indonesia, Now Iam Studied At SMKN 7 SAMARINDA, And My Major Is Software And Game Development</p>
+<p>Hello My Name Is Alpian, I Am 18 Years Old, I Live In Indonesia, Now Iam Studied At SMKN 7 SAMARINDA, And My Major Is Software And Game Development</p>
  
  </div>
 
