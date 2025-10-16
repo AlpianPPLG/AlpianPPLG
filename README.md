@@ -21,7 +21,7 @@
 ```javascript
 const aboutMe = {
   name: "Alpian",
-  age: 17,
+  age: 18,
   location: "Indonesia",
   education: {
     school: "SMKN 7 SAMARINDA",
