@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AlpianPPLG&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://alpianpplg.io)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <hr/>
 
@@ -163,21 +163,26 @@ const aboutMe = {
 
 <hr />
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alpian_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alpian_" /></a></p><br><br>
-
-<hr />
-
-### My Recent Activity:
-[![GitHub Activity](https://img.shields.io/badge/Recent%20Activity-Click%20Here!-brightgreen)](https://github.com/AlpianPPLG?tab=repositories)
-
-<hr />
-
-<p align="left">
-    <a href="">
-      <img src="https://render.gitanimals.org/lines/alpianpplg?pet-id=657051833278790750" width="600" height="120" />
-    </a>
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/alpian_">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alpian_" />
+  </a>
 </p>
+
+<hr />
+
+<h3 align="center">My Recent Activity:</h3>
+<p align="center">
+  <a href="https://github.com/AlpianPPLG?tab=repositories">
+    <img src="https://img.shields.io/badge/Recent%20Activity-Click%20Here!-brightgreen" alt="GitHub Activity" />
+  </a>
+</p>
+
+<hr />
+
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://alpianpplg.io)
+
 
 <hr />
 
