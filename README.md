@@ -71,7 +71,8 @@ const aboutMe = {
          • 📈 Trading
          • 🖼️ Editing/Color Grade(Photo)
          • ⚙️ Explore the operating system
-         • 🌎 Learn Language(English,German,France,Spanish,Italy) 
+         • 🌎 Learn Language(English,German,France,Spanish,Italy)
+         • 🎨 Design(figma(basic))
      </details>
  </div>
 
@@ -105,7 +106,7 @@ const aboutMe = {
 <br>
 
 <h3 align="center">🛠Technologies and Tools🛠:</h3>
-<p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,debian,ubuntu,github,java,kotlin,python,postman,vite,arduino,vue,typescript,go" />
+<p align="center"> <br/>  <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,debian,ubuntu,github,figma, java,kotlin,python,postman,vite,arduino,vue,typescript,go" />
     <img src= "https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,react,mysql,nodejs,express,laravel,tailwindcss,bootstrap,nextjs,firebase,dart,windows,aws"/>
     <img src= "https://skillicons.dev/icons?i=c" />
