@@ -30,7 +30,7 @@ const aboutMe = {
   contact: {
     email: "Nova07pplg@gmail.com",
     github: "https://github.com/AlpianPPLG",
-    instagram: "https://instagram.com/_ubermensch7",
+    instagram: "https://instagram.com/_nova.pratama",
     facebook: "https://facebook.com/Nova Pratama"
   },
 };
